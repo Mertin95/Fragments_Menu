@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/rojo"
+        android:icon="@android:drawable/ic_media_previous"
+        android:title="Rojo" />
+    <item
+        android:id="@+id/azul"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="Azul" />
+    <item
+        android:id="@+id/verde"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="Verde" />
+</menu>
